@@ -5,6 +5,7 @@ public class HelloWorld {
         System.out.println("Jai Shree Ganesh...Om Gam Ganpatye Namah...");
         System.out.println("added this line in master");
         System.out.println("added this line in test1 branch");
+        System.out.println("added this line in master to check conflict");
         System.out.println("add this line in test1 branch again...");
     }
     public void test1Method(){
