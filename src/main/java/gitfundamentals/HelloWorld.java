@@ -6,6 +6,8 @@ public class HelloWorld {
         System.out.println("added this line in master");
         System.out.println("added this line in test1 branch");
         System.out.println("added this line in master to check conflict");
+        System.out.println("adding line1 to undo changes");
+        System.out.println("adding line2 to undo changes");
     }
     public void test1Method(){
         System.out.println("this method is added in test1 branch");
